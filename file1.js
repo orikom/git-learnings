@@ -1,3 +1,2 @@
 // file 1
-
-const var1 = "var1fromwidows";
+const var1 = 1;
