@@ -6,3 +6,5 @@ const winVar4 = "winVar4";
 
 const macVar = "macVar";
 const macVar2 = "macVar2";
+const macVar3 = "macVar3";
+const macVar4 = "macVar4";
