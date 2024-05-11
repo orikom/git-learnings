@@ -1,2 +1,3 @@
 // file 1
-//commit 2
+
+const var1 = 1;
